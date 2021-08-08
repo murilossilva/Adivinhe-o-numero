@@ -7,7 +7,7 @@
 - Python 3.9.x
 - Bibliotecas math e random
 
-<h4>Usage</h4>
+<h3>Usage</h3>
 
 <h5>Windows</h5>
 
@@ -17,7 +17,7 @@
 
 - python3 guess.py
 
-<h4>Social Medias</h4>
+<h3>Social Medias</h3>
 
 - Instagram: https://www.instagram.com/original.mancha/
 - Twitter: https://twitter.com/printmurilo
